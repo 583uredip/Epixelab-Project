@@ -69,7 +69,7 @@ Responsive Design – Works seamlessly on desktop, tablet, and mobile
 
 🌐 Live Demo
 
-Check out the live version of the landing page here:
+Check out the live version of the landing page here:https://frolicking-choux-25f8f6.netlify.app/
 
 View Live Demo
 
